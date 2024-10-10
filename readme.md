@@ -48,7 +48,7 @@
 
 <h3>Autor</h3>
 
-<a href="https://www.linkedin.com/in/moises-nascimento/">hc=_sp_NTIyS9gAX8g9js2&edm=ABmJApABAAAA&ccb=7-5&oh=00_AT-9VV6aoZMGuDrwM3n0w6lJzZQZEWwU-ZwgpFj-mNHTWQ&oe=63449AD4&_nc_sid=6136e7" width="100px;" alt=""/>
+<a href="[https://www.linkedin.com/in/moises-nascimento/](https://www.linkedin.com/in/moises-nascimento-669320332/)">hc=_sp_NTIyS9gAX8g9js2&edm=ABmJApABAAAA&ccb=7-5&oh=00_AT-9VV6aoZMGuDrwM3n0w6lJzZQZEWwU-ZwgpFj-mNHTWQ&oe=63449AD4&_nc_sid=6136e7" width="100px;" alt=""/>
  <br />
 
 Feito com 💙 por Felipe Santana 👋🏽 Entre em contato!
