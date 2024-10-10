@@ -66,9 +66,9 @@ Feito com 💙 por Moises Nascimento 👋🏽 Entre em contato!
 
 Se possível:
 
-⭐️  C# projeto<br>
-⭐️  Sql Server projeto<br>
-⭐️  Windows Forms<br>
+⭐️ HTML projeto<br>
+⭐️  CSS Server projeto<br>
+⭐️  JAVASCRIPT<br>
 
 🐛 Encontrar e relatar issues
 
