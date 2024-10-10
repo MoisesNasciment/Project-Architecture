@@ -1,0 +1,109 @@
+/* Reset de margens e padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+    line-height: 1.6;
+}
+
+header.hero {
+    background-color: #303030;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+.statistics {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.stat-item {
+    width: 30%;
+}
+
+.stat-item h3 {
+    font-size: 2em;
+    color: #007BFF;
+}
+
+.about {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.about h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.about .project-image {
+    width: 60%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.contact {
+    background-color: #303030;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.contact form {
+    display: inline-block;
+    text-align: left;
+}
+
+.contact label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.contact input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.contact button {
+    padding: 10px 20px;
+    background-color: #FF5733;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #202020;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
