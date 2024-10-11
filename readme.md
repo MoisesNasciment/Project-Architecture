@@ -20,7 +20,7 @@
 	<td>VSCode</td>
 	<td>1.78</td>
 </tr>
-<td>C#</td>
+<td>HTML,CSS,JAVASCRIPT</td>
 	
 
 	
