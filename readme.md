@@ -7,11 +7,6 @@
 
 <h3>Features</h3>
 
-✔️ A aplicação deve cadastrar usuarios, alunos, empresas, funcionarios, Treino no banco de dados <br>
-✔️ A aplicação deve cadastrar usuarios, alunos, empresas, funcionarios, Treino no banco de dados <br>
-✔️ A aplicação deve permitir a consulta deusuarios, alunos, empresas, funcionarios, Treino<br>
-✔️ A aplicação deve permitir a alteração de dados dos usuarios, alunos, empresas, funcionarios, Treino<br>
-✔️ A aplicação deve permitir exclusão de um usuarios, alunos, empresas, funcionarios, Treino <br>
 ✔️ A aplicação deve a inserção de dados <br>
 
 <h3>Demostração da Aplicação</h3>
