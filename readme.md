@@ -1,6 +1,6 @@
 <h1>   Sistema de Arquitetura </h1>
 
-<p> Projeto Desenvolvido atravês de Estudo em Html, Css, Javascript</p>
+<p> Projeto Desenvolvido atraves de Estudo em Html, Css, Javascript</p>
 
 <h3>Status do Projeto</h3>
 <p align="center"> 🚧 Em Desenvolvimento... 🚧 </p>
